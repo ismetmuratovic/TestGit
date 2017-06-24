@@ -12,7 +12,7 @@ What tools you need to install this software.
 
 ```
 Git client
-clang++ compiler
+Clang++ compiler
 ```
 
 ### Cloning Repository
