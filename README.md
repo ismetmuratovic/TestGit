@@ -26,15 +26,21 @@ Clang++ compiler
 
 ### Installing
 
-Instaling this software on your local machine is very simple due to the Makefile.
+Installing this software on your local machine is very simple due to the Makefile.
 
 ```
 1. Open your terminal
 2. Navigate to the folder where you cloned this project
-3. Run "./Makefile" command
+3. Run "./Makefile" command (run "./Makefile clean" to uninstall)
 ```
 
 ## Testing 
+
+```
+1. Open your terminal
+2. Navigate to the folder where you cloned this project
+3. Run "./bin/Test"
+```
 
 ## Built With
 
