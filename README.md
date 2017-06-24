@@ -1,43 +1,46 @@
 # dbSchoolAPI
 
-Software that manage school database.
+Software that manages a school database.
 
 ## Getting Started
 
-These instructions wiil get you started with getting a copy of this project on your local machine and installing it.
+These instructions will get you started with getting a copy of this project on your local machine and installing it.
 
 ### Prerequisites
 
-What things you need to install this software.
+What tools you need to install this software.
 
 ```
 Git client
-GCC 4.9.2 C++ compiler
+clang++ compiler
 ```
-### Cloning repository
+
+### Cloning Repository
+
 ```
 1. Open Git Bash
-1. Change the current working directory to the location where you want the cloned directory to be made
-1. Type "git clone https://github.com/MirzaHalilcevic/dbSchoolAPI_grupa_4"
-1. Press Enter and your local clone wil be created
+2. Change the current working directory to the location where you want the cloned directory to be made
+3. Type "git clone https://github.com/MirzaHalilcevic/dbSchoolAPI_grupa_4"
+4. Press Enter and your local clone will be created
 ```
 
 ### Installing
 
-Instaling this software on your local machine is very simple due to the makefile
+Instaling this software on your local machine is very simple due to the Makefile.
 
 ```
-1. Open your terminal Ctrl+Alt+T
-1. Navigate to folder where you cloned this project
-1. Run "./makefile" command
+1. Open your terminal
+2. Navigate to the folder where you cloned this project
+3. Run "./Makefile" command
 ```
+
 ## Testing 
 
 ## Built With
 
 * [Vim](http://www.vim.org/) - Text editor used
 
-## Autors
+## Authors
 
 * **Mirza Halilčević**
 * **Ismet Muratović**
@@ -45,6 +48,6 @@ Instaling this software on your local machine is very simple due to the makefile
 * **Sead Delić**
 * **Said Bačinović**
 
-## Licence
-This project is licensed under the GNU-General Public License v3.0 - see the [GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html) for details
+## License
 
+This project is licensed under the GNU General Public License v3.0 - see [GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html) for details.
